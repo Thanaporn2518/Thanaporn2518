@@ -1,7 +1,7 @@
 # 👋 Thanaporn Thianaporn
 - 120/183 RotfalKaoRd., Bang Na , BangNa ,Bangkok ,10260
-- ### Personal Details
-- age :  21
+# Personal Details
+age :  21
 Date of Birth : 29 November 1999<br>
 Nationality : Thai
 
