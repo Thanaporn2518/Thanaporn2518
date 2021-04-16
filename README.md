@@ -17,6 +17,13 @@ Mahasarakham , Thailand<br>
 
 ![thanaporn](https://lh3.googleusercontent.com/Xr7rrCK2uMXKhl-ruOdc_LBxdT8B7ZOlIgeN7C--PnliSuBSph6ixKyjuPUzzzp42ZXiEgBf4WNHdPK1FBsTCGKknv8ftFnU6XeLjiIPKxaOFvzlHAiOOk7qdaDKXx4FgVkZmmPO0mpV_JS2_3xa2FjTKY4WVgjXqyiKIXa7f-nLT59HYo0__DxGpSW-QPBdC6BH6flo4eQEaQAPQFUxA8cX7zkxCkieZ7efAdu_NNb8Lfzr9Qsex8I0cR6wDk-4E1pIl_garRUYvv0gNktWimXfPcfS1Sc82VvCey8fpys1vzNp53YRUxgn5pTsh6yAZnWHclE-ypIXi9kjwTj9j3dabL3icCEJjoaK9o7VeF72qFmkfGv_lJmFulOEy10IwreSBZt52m-Ksik8Nc_MRBwiasOkxTJdVR51cOrDGg4H9dx1XF5KqsQbD5d_rgaDOTRDy9jOeXMCObRMk6JKsax1FX3u5xfWAi-lp19pyZC5I3QLi4P7YPIi1efceMuaTsa5wesdqjYqkJN5t3WreoFRp1kfbSzbCfw1AK2NC7ND204HxcPqkOlQ-zIXLAdQ5Qn3GRfY-eHR7_oGMKTM3YMEyNrqZa-0YRsU3VZPu93PCyLhQW1bmtzT1-qlerbhwNvu7KxFI-PoBRerp7n7qT9_ELnnX1NguhYMuFhlqpO5lKPBtBWPWW4KacLRtZRKSRNXnKmI7TjBP2lzxv8WslqI=w500-h400-no?authuser=0)<br>
 
+## Skills & Abilities
+Languages Thai(native),England <br>
+Programming Languages C , JavaScript ,PHP ,Python <br>
+Markup and query languages HTML ,SQL <br>
+Administrative Assistant MS Word, MS Excel, Power Point <br>
+ Digital Marketing  Adobe Photoshop <br>
+
 
 
 ## Contece
