@@ -1,11 +1,11 @@
 # 👋 Thanaporn Thianaporn
 120/183 RotfalKaoRd., Bang Na , BangNa ,Bangkok ,10260
-# Personal Details
+## Personal Details
 age :  21 <br>
 Date of Birth : 29 November 1999<br>
 Nationality : Thai
 
-# Educational History
+## Educational History
 * Junior High School |  2015- 2017<br>
 Borabue Witthayakhan School<br>
 
