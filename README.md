@@ -1,4 +1,4 @@
-# 👋 Hi I'm Thanaporn Thianaporn, Welcome to my Github profile 
+# 👋 Hi I'm Thanaporn Thianaprom, Welcome to my Github profile 
 ## Address
 120/183 RotfalKaoRd., Bang Na , BangNa ,Bangkok ,10260
 ## Personal Details
